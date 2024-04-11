@@ -1,7 +1,7 @@
 # hello👋, I'm Otavio Matias
 <p> I'm 15 years old and I'm studying IT at a technical school called Bento Quirino,I'm lovingstudying IT, and I hope everything goes well in my career as a programmer✨</p>
 
-<img src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/874.png" min-width="400px" max-width="50px" width="50px" align="right" >
+<img src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/874.png" min-width="400px" max-width="250px" width="250px" align="right" >
 
 ### I'm a big fan of a Brazilian team called Corinthians🦅🖤🤍
 
