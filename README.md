@@ -3,7 +3,7 @@
 
 <img src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/874.png" min-width="400px" max-width="270px" width="270px" align="right" >
 
-### I'm a big fan of a Brazilian team called Corinthians🦅🖤🤍
+### I'm a big fan of a Brazilian team called *Corinthians*🦅🖤🤍
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kotaviozx1n&show_icons=true&theme=dracula)
 ###### I'm starting, man🥺
